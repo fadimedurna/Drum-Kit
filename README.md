@@ -1,2 +1,2 @@
 # Drum-Kit
-Website with JavaScript adn DOM manipulations.
+Website with JavaScript and DOM manipulations.
